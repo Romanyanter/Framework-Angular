@@ -1,0 +1,19 @@
+.contact h2 {
+  color: #2c3e50;
+}
+.contact{
+  height: 100vh;
+}
+.after {
+  background-color: #2c3e50;
+  height: 4px;
+  width: 100px;
+}
+.befor {
+  background-color: #2c3e50;
+  height: 4px;
+  width: 100px;
+}
+i {
+  color: #2c3e50;
+}
